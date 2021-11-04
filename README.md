@@ -1,2 +1,2 @@
 # Quantifying-EPR
-This repository stores the codes used in the paper "Quantifying EPR: the resource theory of  nonclassicality of common-cause assemblages".
+This repository stores the code which implements the semidefinite program constructed in the article "Quantifying EPR: the resource theory of nonclassicality of common-cause assemblages" by Beata Zjawin, David Schmid, Matty J. Hoban, Ana Belén Sainz. Given two assemblages, the code LOSR_conversions.m checks whether one can be converted into the other with local operations and shared randomness. The code is written in MATLAB and it requires CVX and QETLAB. 
