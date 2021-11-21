@@ -1,6 +1,7 @@
 %Given two assemblages, check whether one can be converted to the other
 %using local operations and shared randomness (LOSR)
 
+
 function output=LOSR_conversions(d, Sig, SigT)
 
 % Inputs:
