@@ -10,4 +10,5 @@ LOSR_conversions_channel_X3.m - channel assemblage (channel EPR scenario) with |
 LOSR_conversions_BwI_X2.m - Bob-with-input assemblage (Bob-with-input EPR scenario) with |A|=|X|=2  
 LOSR_conversions_BwI_X2.m - Bob-with-input assemblage (Bob-with-input EPR scenario) with |A|=2, |X|=3  
 LOSR_conversions_MDI.m - measurement-device-independent assemblage (measurement-device-independent EPR scenario) with |A|=2, |X|=3
+LOSR_conversions_channel_X2.m - channel assemblage (channel EPR scenario) with |A|=|X|=2 (robust version from Appendix B)
 
